@@ -6,5 +6,7 @@ Kheer
 Pasata
 chicken
 
+bean
+pizza
 
 thank you :)
