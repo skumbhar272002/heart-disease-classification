@@ -1,3 +1,5 @@
+Optimizing Heart Disease Classification: An Exploration of Multiple Algorithms and Hyperparameter Tuning
+
 Hyperparameters and Accuracy
 
 | Model                  | Best Hyperparameters                              | Accuracy       |
