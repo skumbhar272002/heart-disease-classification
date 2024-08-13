@@ -1,4 +1,4 @@
-Optimizing Heart Disease Classification: An Exploration of Multiple Algorithms and Hyperparameter Tuning
+# Optimizing Heart Disease Classification: An Exploration of Multiple Algorithms and Hyperparameter Tuning
 
 Hyperparameters and Accuracy
 
