@@ -33,7 +33,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the data
-df = pd.read_csv("/content/dataset (1).csv")
+df = pd.read_csv("/content/dataset.csv")
 
 # Encode categorical columns
 categorical_cols = ['sex', 'cp', 'fbs', 'restecg', 'exang', 'slope', 'ca', 'thal', 'dataset']
