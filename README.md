@@ -26,7 +26,7 @@ The dataset used in this project contains the following fields:
 - **Thal**: Thalassemia test result.
 - **Num**: Diagnosis of heart disease (target variable).
 
-The dataset can be found [here](https://colab.research.google.com/drive/1uqIWnfMWsWqiB2YdB3ZIWnqxOoSgc5NS).
+The dataset can be found [here](dataset.csv).
 
 ## Objective
 
@@ -79,7 +79,7 @@ The main objective of this project is to identify the best machine learning mode
    ```
 
 3. **Download the dataset**:
-   - The dataset can be found [here](https://colab.research.google.com/drive/1uqIWnfMWsWqiB2YdB3ZIWnqxOoSgc5NS).
+   - The dataset can be found [here](dataset.csv).
    - Place the `dataset.csv` file in the project directory.
 
 4. **Run the main script**:
