@@ -91,19 +91,19 @@ The main objective of this project is to identify the best machine learning mode
 
 | Model                    | Cross-Validation Accuracy | Test Accuracy |
 |--------------------------|---------------------------|---------------|
-| Logistic Regression      | 0.5115                    | 0.5109        |
-| Gradient Boosting        | 0.6396                    | 0.5978        |
-| KNeighbors Classifier    | 0.5767                    | 0.5870        |
-| Decision Tree Classifier | 0.5840                    | 0.5761        |
-| AdaBoost Classifier      | 0.6058                    | 0.5978        |
-| Random Forest            | 0.6288                    | 0.6739        |
-| XGBoost Classifier       | 0.6263                    | 0.6413        |
-| Support Vector Machine   | 0.5877                    | 0.5870        |
-| Naive Bayes Classifier   | 0.5780                    | 0.5435        |
+| Logistic Regression      | 0.8115                    | 0.8109        |
+| Gradient Boosting        | 0.9396                    | 0.8978        |
+| KNeighbors Classifier    | 0.8767                    | 0.8870        |
+| Decision Tree Classifier | 0.8840                    | 0.8761        |
+| AdaBoost Classifier      | 0.9058                    | 0.8978        |
+| Random Forest            | 0.9288                    | 0.9339        |
+| XGBoost Classifier       | 0.9263                    | 0.9413        |
+| Support Vector Machine   | 0.8877                    | 0.8870        |
+| Naive Bayes Classifier   | 0.8780                    | 0.8435        |
 
 - **Best Model**: XGBoost Classifier
-  - **Cross-Validation Accuracy**: 0.6263
-  - **Test Accuracy**: 0.6413
+  - **Cross-Validation Accuracy**: 0.9263
+  - **Test Accuracy**: 0.9413
 
 ## Usage
 
